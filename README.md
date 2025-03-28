@@ -1,0 +1,2 @@
+# SmartAI
+GenAI
