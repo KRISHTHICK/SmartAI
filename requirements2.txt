@@ -1,0 +1,27 @@
+streamlit
+torch
+torchvision
+transformers
+scikit-learn
+Pillow
+requests
+
+# # 👗 SmartAI - Celebrity Fashion Recommender
+
+# This Streamlit app lets you upload a photo of a celebrity outfit and recommends similar clothing items available online.
+
+# ## ✨ Features
+# - Upload an outfit image
+# - Uses CLIP model to extract visual features
+# - Finds similar products from the catalog
+# - Displays product image, name, and buy link
+
+# ## 📦 Setup
+
+# ### 1. Clone Repo
+# git clone https://github.com/yourusername/SmartAI-Celebrity-Fashion-Recommender.git
+# cd SmartAI-Celebrity-Fashion-Recommender
+# 2. Install Requirements
+# pip install -r requirements.txt
+# 3. Run the App
+# streamlit run app.py
