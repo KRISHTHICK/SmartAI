@@ -1,0 +1,12 @@
+streamlit
+pillow
+torch
+torchvision
+transformers
+scikit-learn
+numpy
+pandas
+requests
+langchain
+langchain-community
+ollama
